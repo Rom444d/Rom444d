@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rom444d
+- 👋 Hi, I’m @Rom444d, I'm a high school student
 - 👀 I’m interested in French rap and programming (Python, Arduino, HTML)
 - 🌱 I’m currently learning Python and Arduino in high school
 - 📫 How to reach me : [Telegram](https://t.me/Rom444d)
